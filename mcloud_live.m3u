@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="News",2GB Sydney (1080p)
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="Entertainment",ComedyCentral
+http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.ga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/676px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network
+http://n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
