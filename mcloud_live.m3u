@@ -6,5 +6,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 #EXTINF:-1 tvg-id="GameShowNetwork.ga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/676px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network
 http://n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entertainment;Crime",IDTV
+#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entertainment;Crime",Investigation Discovery
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_14.m3u8
