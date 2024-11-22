@@ -7,4 +7,4 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 http://n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IDtv.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Crime",ID TV
-https://gist.githubusercontent.com/djancukers/d8a829b269d93ed5e4604e158318faa1/raw/a6ae1ba1a4b3b30ee957607493a4646d9652613b/Discovery_ID.m3u
+https://raw.githubusercontent.com/imakelists/mcloud_live/refs/heads/main/mcloud_idtv.m3u8
