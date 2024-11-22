@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:60,Discovery_ID.m3u
+#EXTVLCOPT:network-caching=1000
+https://gist.githubusercontent.com/djancukers/d8a829b269d93ed5e4604e158318faa1/raw/a6ae1ba1a4b3b30ee957607493a4646d9652613b/Discovery_ID.m3u
